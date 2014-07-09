@@ -13,7 +13,7 @@ name:                sierpinski
 version:             0.1.0.0
 
 -- A short (one-line) description of the package.
-synopsis:            Making sierpinski triangles using the Diagram library
+synopsis:            Making sierpinski triangles using the Diagrams library
 
 -- A longer description of the package.
 -- description:         
