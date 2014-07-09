@@ -45,6 +45,8 @@ build-type:          Simple
 -- Constraint on the version of Cabal needed to build this package.
 cabal-version:       >=1.10
 
+extra-doc-files:     10-square.png
+
 
 executable sierpinski
   -- .hs or .lhs file containing the Main module.
@@ -67,4 +69,4 @@ executable sierpinski
   
   -- Base language which the package is written in.
   default-language:    Haskell2010
-  
+

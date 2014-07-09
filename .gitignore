@@ -1,1 +1,11 @@
-<html><body>You are being <a href="https://raw.githubusercontent.com/github/gitignore/master/Haskell.gitignore">redirected</a>.</body></html>
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+.virtualenv
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+cabal.config
