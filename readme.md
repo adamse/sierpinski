@@ -1,6 +1,10 @@
+sierpinski
+==========
+
 Make beautiful Sierpinsky triangles using the Haskell Diagrams library.
 
-Usage:
+Usage
+-----
 
     ./sierpinsky -o [Outfile] -w [Width] [Shape] [Iterations]
 
